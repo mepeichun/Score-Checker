@@ -34,9 +34,13 @@ info = [
 相信在不久的将来，这个系统就会出现在你们面前，供全校学生使用
 
 ##使用效果
+
 每次新出成绩，会在成绩出来5分钟内收到邮件，并将新出的科目及成绩放到标题
+
 ![截图1](https://github.com/mepeichun/check_score_system/raw/master/screenshot1.PNG)
+
 邮件内部有详细的学科成绩，学期绩点
+
 ![截图2](https://github.com/mepeichun/check_score_system/raw/master/screenshot2.PNG)
 
 ##原理
