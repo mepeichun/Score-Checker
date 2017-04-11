@@ -44,4 +44,4 @@ info = [
 ![截图2](https://github.com/mepeichun/check_score_system/raw/master/screenshot2.PNG)
 
 ## 原理
-深度神经网络加爬虫
+数字图像处理,深度神经网络,爬虫
